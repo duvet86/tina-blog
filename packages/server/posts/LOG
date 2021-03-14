@@ -1,0 +1,14 @@
+2021/03/14-22:49:46.255 3084 Recovering log #22
+2021/03/14-22:49:46.255 3084 Level-0 table #24: started
+2021/03/14-22:49:46.275 3084 Level-0 table #24: 251 bytes OK
+2021/03/14-22:49:46.284 3084 Delete type=0 #22
+2021/03/14-22:49:46.284 3084 Delete type=3 #20
+2021/03/14-22:49:46.285 5eb8 Compacting 4@0 + 1@1 files
+2021/03/14-22:49:46.290 5eb8 Generated table #26@0: 9 keys, 1043 bytes
+2021/03/14-22:49:46.290 5eb8 Compacted 4@0 + 1@1 files => 1043 bytes
+2021/03/14-22:49:46.294 5eb8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/03/14-22:49:46.294 5eb8 Delete type=2 #13
+2021/03/14-22:49:46.294 5eb8 Delete type=2 #15
+2021/03/14-22:49:46.295 5eb8 Delete type=2 #18
+2021/03/14-22:49:46.295 5eb8 Delete type=2 #21
+2021/03/14-22:49:46.295 5eb8 Delete type=2 #24
